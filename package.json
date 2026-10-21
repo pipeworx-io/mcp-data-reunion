@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-reunion",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Réunion Open Data (data.regionreunion.com) — OpenDataSoft MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-35a1769142cd060aa872ab4cf54e2a17b08d84905f0a8339d96ed781e273f2ee",
-    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
+    "sourceHash": "v1-ff8235724d51d02c6ba3e91d1779eb39fd7f4787e59856a52f0d2f8c2e61f910",
+    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
   }
 }
